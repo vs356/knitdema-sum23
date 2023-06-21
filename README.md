@@ -1,4 +1,4 @@
-### Project Description
+# Project Description
 
-### Progress Log
-# 06/21/2023
+# Progress Log
+### 06/21/2023
